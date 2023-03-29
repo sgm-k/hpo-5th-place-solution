@@ -1,0 +1,3 @@
+hebo
+scikit-optimize
+git+https://github.com/uber-research/TuRBO.git@master
